@@ -1,0 +1,10 @@
+langchain
+langchain-core
+langchain-community
+docx2txt
+pypdf
+langchain-chroma
+sentence-transformers
+ipykernel
+dotenv
+langchain-google-genai
